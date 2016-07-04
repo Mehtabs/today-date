@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Today's Date.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>TodayDate.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>1BB643B61D2A416300972900</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1BB643CC1D2A41CE00972900</key>
 		<dict>
 			<key>primary</key>
 			<true/>
